@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538323919855",
+    "project_id": "misronim-f7150",
+    "storage_bucket": "misronim-f7150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538323919855:android:1bd6304f353cfef3d50c1a",
+        "android_client_info": {
+          "package_name": "com.dapps.misronim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538323919855-aeauqkl5d2r1eo4jaaie6m0a5hs5c2hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-XQ_6yyyXHpyuctFp9dHadFnHK9eZ1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538323919855-aeauqkl5d2r1eo4jaaie6m0a5hs5c2hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
